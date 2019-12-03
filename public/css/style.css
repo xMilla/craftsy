@@ -1,0 +1,16 @@
+
+
+div{
+    
+    float: left;
+}
+
+img{
+    float: left; 
+}
+
+.banner {
+    background-color: orangered;    
+    width: 1140px;
+    overflow: hidden;
+}

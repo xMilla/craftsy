@@ -1,8 +1,9 @@
 
 
 div{
-    
+    background-color: orangered; 
     float: left;
+    padding: 20px;
 }
 
 img{
